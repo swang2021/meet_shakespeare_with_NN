@@ -1,3 +1,3 @@
 # meet_shakespeare_with_NN
 
-This is a jupyternote book compares RNN and LSTM in NLP tasks
+This is a Jupyter Notebook that compares RNN and LSTM in an NLP task, specifically text generation.
